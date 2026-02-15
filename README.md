@@ -1,12 +1,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=ADARSH%20KUMARAMKUZHIYIL&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+Business & Data Analyst | London, England |
 
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=DATA+%26+BUSINESS+ANALYST" alt="Typing SVG" />
 <br>
 
-<img src="https://silly-red-klcyrsc4uf.edgeone.app/IMG_3768.jpeg" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #FFFFFF; border: 2px solid #FFFFFF;" alt="Adarsh's Photo" />
+<img src="https://silly-red-klcyrsc4uf.edgeone.app/IMG_3768.jpeg" width="400" style="border-radius: 100%; box-shadow: 0 0 20px #FFFFFF; border: 2px solid #FFFFFF;" alt="Adarsh's Photo" />
 
 <br><br>
 
