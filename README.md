@@ -1,59 +1,64 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=ADARSH+KUMARAMKUZHIYIL;BUSINESS+%26+DATA+ANALYST" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=DATA%20%20%20BUSINESS%20%20%20DATA%20%20%20BUSINESS&fontSize=20&fontColor=1A1A1A&animation=fadeIn" />
 
-<img src="YOUR_IMAGE_URL_HERE" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #00D1FF; border: 3px solid #00D1FF;" alt="Adarsh Profile" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=ADARSH+KUMARAMKUZHIYIL;BUSINESS+%26+DATA+ANALYST" alt="Typing SVG" />
+
+<img src="https://silly-red-klcyrsc4uf.edgeone.app/IMG_3768.jpeg" width="180" style="border-radius: 50%; box-shadow: 0 0 25px #00D1FF; border: 3px solid #00D1FF;" alt="Adarsh's Photo" />
 
 <br>
+<br>
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=MBA%20Data%20Analytics%20|%20UoH%20England&fontSize=25&fontColor=00D1FF&animation=twinkling)
-
----
-
-### 🌌 MISSION & EXPERTISE
-* [cite_start]**Strategic Analysis:** Aligning business objectives with operational activities to drive productivity[cite: 5].
-* [cite_start]**Data Mastery:** Leveraging an MBA in Data Analytics to identify inefficiencies and automate processes[cite: 8, 23].
-* [cite_start]**Technical Liaison:** Bridging the gap between complex data and actionable stakeholder insights[cite: 25, 44].
+![Stats](https://github-readme-stats.vercel.app/api?username=adarshm1x&show_icons=true&theme=dark&hide_border=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF)
 
 ---
 
-### 🛠️ TECH STACK & TOOLS
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Data Tools** | ![Excel](https://img.shields.io/badge/-Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346) ![Data Mining](https://img.shields.io/badge/-Data_Mining-000000?style=for-the-badge&logo=data-analysis&logoColor=FFD700) |
-| **IT Systems** | ![O365](https://img.shields.io/badge/-O365-000000?style=for-the-badge&logo=microsoft-365&logoColor=0078D4) ![Active Directory](https://img.shields.io/badge/-AD-000000?style=for-the-badge&logo=microsoft&logoColor=4B0082) |
-| **Logic** | [cite_start]`Statistical Analysis` `Troubleshooting` `Problem-Solving` [cite: 31, 38, 41] |
+### 🌑 STRATEGIC OVERVIEW
+📊 **MBA (Data Analytics):** University of Hertfordshire, UK
+📈 **Business Analyst:** Expertise in process mapping and efficiency optimization.
+- 🤖 **AI & Data Driven:** Certified in GenAI (BCG) and Foundations of Data Science (Google).
 
 ---
 
-### 🏆 ELITE CERTIFICATIONS
-<div align="left">
-
-#### ⚡ Cisco & Technical
-* [cite_start]**AI Mastery:** "Are you AI Ready" (Cisco Networking Academy)[cite: 53].
-* [cite_start]**Data Science:** Introduction to Data Science (Cisco Networking Academy)[cite: 50].
-* [cite_start]**Infrastructure:** Computer Hardware Basics (Cisco)[cite: 49].
-
-#### 📦 Supply Chain & Market Analysis
-* [cite_start]**Global Logistics:** Supply Chain Management Certification (University of Calicut)[cite: 48].
-* [cite_start]**Market Trends:** Market Trend Research for Dutch Payment Companies (University of Hertfordshire)[cite: 52].
-
-#### 🌐 Web & Documentation
-* [cite_start]**Development:** Intro to Web Design & Development (LinkedIn)[cite: 51].
-* [cite_start]**Business Flow:** Certified in Business Process Management[cite: 46].
-
-</div>
-
----
-
-### 📊 DATA INSIGHTS
+### 🛡️ TECH & ANALYTICS STACK
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&hide_border=true&title_color=00D1FF&icon_color=00D1FF" alt="Stats" />
+  <img src="https://img.shields.io/badge/EXCEL-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/O365-000000?style=for-the-badge&logo=microsoft-365&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/AD-000000?style=for-the-badge&logo=microsoft&logoColor=4B0082" />
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-000000?style=for-the-badge&logo=data-analysis&logoColor=FFD700" />
 </p>
 
 ---
 
+### 🏛️ RECENT CERTIFICATIONS (2025-2026)
+
+#### **🎯 Top Tier**
+- **Google:** Foundations of Data Science (Master Data Management).
+**Cisco:** CCNP Cloud & Intro to Data Science.
+- **UoH:** Market Trend Research (Dutch Payment Sector).
+
+#### **💼 Forage Job Simulations**
+- **Data Analytics:** Deloitte Australia, Accenture North America.
+- **Operations & Finance:** Goldman Sachs, Bloomberg Client Service.
+- **Project Management:** Siemens Mobility (Commercial & Project Manager).
+- **Product & Pharma:** Electronic Arts (PM), Pfizer UK (Molecule to Market).
+- **GenAI:** BCG Job Simulation.
+
+---
+
+### 📜 CORE CREDENTIALS
+-**Supply Chain Management:** University of Calicut[cite: 48].
+- **Web Development:** LinkedIn Learning[cite: 51].
+- **Computer Hardware:** Cisco Networking Academy[cite: 49].
+
+---
+
 ### 📬 CONNECT
-[LinkedIn](https://www.linkedin.com/in/adarsh-kumaramkuzhiyil-585458148) • [Email](mailto:adumuralivaliyathodi@gmail.com) • [Download CV](./Adarsh_CVR_3.pdf)
+<p align="center">
+<a href="https://www.linkedin.com/in/adarsh-kumaramkuzhiyil-58545b148/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:adumuralivaliyathodi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=BUSINESS%20ANALYST%20|%20DATA%20ANALYST&fontSize=15&fontColor=1A1A1A" />
 
 </div>
